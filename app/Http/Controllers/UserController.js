@@ -1,5 +1,8 @@
 'use strict'
 
+const Hash = use('Hash')
+const User = use('App/Model/User')
+
 class UserController {
 
 	* register (request, response) {
