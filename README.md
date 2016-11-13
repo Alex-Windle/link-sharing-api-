@@ -1,8 +1,8 @@
 
 ************************
-*Params*
+## Params
 
-*Register a new user*
+# Register a new user
 
 POST /user
 
@@ -12,7 +12,7 @@ email - string
 
 password - string
 
-*Login*
+# Login
 
 POST /user/:id
 
