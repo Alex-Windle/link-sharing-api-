@@ -4,7 +4,7 @@
 
 ## Register a new user
 
-> POST /user
+POST /user
 
 > username: string
 
@@ -14,7 +14,7 @@
 
 ## Login
 
-> POST /user/:id
+POST /user/:id
 
 ************************
 
