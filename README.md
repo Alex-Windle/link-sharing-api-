@@ -1,20 +1,20 @@
 
 ************************
-## Params
+# Params
 
-# Register a new user
+## Register a new user
 
-POST /user
+> POST /user
 
-username - string
+> username: string
 
-email - string
+> email: string
 
-password - string
+> password: string
 
-# Login
+## Login
 
-POST /user/:id
+> POST /user/:id
 
 ************************
 
