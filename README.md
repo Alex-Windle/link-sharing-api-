@@ -1,11 +1,15 @@
 
 ************************
-Params
+*Params*
 
-Register a new user
+*Register a new user*
 POST /user
 
-Login
+username - string
+email - string
+password - string
+
+*Login*
 POST /user/:id
 
 ************************
