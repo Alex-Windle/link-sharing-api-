@@ -3,13 +3,17 @@
 *Params*
 
 *Register a new user*
+
 POST /user
 
 username - string
+
 email - string
+
 password - string
 
 *Login*
+
 POST /user/:id
 
 ************************
